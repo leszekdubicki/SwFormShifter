@@ -1,0 +1,49 @@
+[general]
+;printer=\\http://szczecin\Szczecin - Printer 67 : LaserJet 5200
+printer=\\pl01printers\Szczecin - Printer 3 : TOSHIBA e-STUDIO281c
+color = 3 ;czarno - bia³y
+templates_folder = W:\Baza rysunkow SolidWorks_REKORD\Makro\Szablony
+
+[A4]
+size=A4
+pdf_print=yes
+printer=\\pl01printers\Szczecin - Printer 3 : TOSHIBA e-STUDIO281c
+;printer=\\PL01W03W04\Szczecin - Printer 4 : TOSHIBA e-STUDIO281c
+;printer=\\PL01W03W04\Szczecin - Printer 67 : LaserJet 5200
+sheet_landscape = a3 - es - v.2.5 Aktualna.slddrt
+sheet_portrait = a4 - es (niezalecana).slddrt
+
+[A3]
+;printer=\\http://szczecin\Szczecin - Printer 67 : LaserJet 5200
+;printer=\\PL01W03W04\Szczecin - Printer 67 : LaserJet 5200
+printer=\\pl01printers\Szczecin - Printer 3 : TOSHIBA e-STUDIO281c
+;printer=\\PL01W03W04\Szczecin - Printer 4 : TOSHIBA e-STUDIO281c
+size=A3
+sheet_landscape = a3 - es - v.2.5 Aktualna.slddrt
+sheet_portrait = a3 - es - v.2.5 Aktualna.slddrt
+[A2]
+;printer=\\http://szczecin\Szczecin - Printer 67 : LaserJet 5200
+;printer=\\PL01W03W04\Szczecin - Printer 67 : LaserJet 5200
+printer=\\pl01printers\Szczecin - Printer 3 : TOSHIBA e-STUDIO281c
+;printer=\\PL01W03W04\Szczecin - Printer 4 : TOSHIBA e-STUDIO281c
+size=A3
+sheet_landscape = a2 - es - v.2.5.slddrt
+sheet_portrait = a2 - es - v.2.5.slddrt
+
+[A1]
+;printer=\\http://szczecin\Szczecin - Printer 67 : LaserJet 5200
+;printer=\\PL01W03W04\Szczecin - Printer 67 : LaserJet 5200
+printer=\\pl01printers\Szczecin - Printer 3 : TOSHIBA e-STUDIO281c
+;printer=\\PL01W03W04\Szczecin - Printer 4 : TOSHIBA e-STUDIO281c
+size=A3
+sheet_landscape = a1 - es - v.2.5.slddrt
+sheet_portrait = a1 - es - v.2.5.slddrt
+
+[A0]
+;printer=\\http://szczecin\Szczecin - Printer 67 : LaserJet 5200
+;printer=\\PL01W03W04\Szczecin - Printer 67 : LaserJet 5200
+printer=\\pl01printers\Szczecin - Printer 3 : TOSHIBA e-STUDIO281c
+;printer=\\PL01W03W04\Szczecin - Printer 4 : TOSHIBA e-STUDIO281c
+size=A3
+sheet_landscape = a0 - es - v.2.5.slddrt
+sheet_portrait = a0 - es - v.2.5.slddrt
